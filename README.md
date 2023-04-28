@@ -13,7 +13,10 @@ A collection of knowledge
 
 * [Causal Inference cheat sheet for data scientists](http://nc233.com/2020/04/causal-inference-cheat-sheet-for-data-scientists/)
 
+### A/B
+
 * [5 Tricks When AB Testing Is Off The Table](https://medium.com/teconomics-blog/5-tricks-when-ab-testing-is-off-the-table-f2637e9f15a5) by Emily Glassberg Sands @ Medium (Head of Data Science @Coursera, Harvard Econ PhD).
+* [Controlled experiments on the web: survey and practical guide (2009)](http://www.robotics.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf) -- have no idea why I bookmarked it.
 
 
 ### Statistics
