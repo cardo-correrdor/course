@@ -9,9 +9,13 @@ A collection of knowledge
 * [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html). The author says: "a light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. Everything in Python and with as many memes as I could find".
 
 * [JUDEA PEARL](http://bayes.cs.ucla.edu/jp_home.html).
-* [JUDEA PEARL AND DANA MACKENZIE. THE BOOK OF WHY: THE NEW SCIENCE OF CAUSE AND EFFECT](http://bayes.cs.ucla.edu/WHY/).
+* * [JUDEA PEARL AND DANA MACKENZIE. THE BOOK OF WHY: THE NEW SCIENCE OF CAUSE AND EFFECT](http://bayes.cs.ucla.edu/WHY/).
+
+* [Causal Inference cheat sheet for data scientists](http://nc233.com/2020/04/causal-inference-cheat-sheet-for-data-scientists/)
+
+* [5 Tricks When AB Testing Is Off The Table](https://medium.com/teconomics-blog/5-tricks-when-ab-testing-is-off-the-table-f2637e9f15a5) by Emily Glassberg Sands @ Medium (Head of Data Science @Coursera, Harvard Econ PhD).
 
 
 ### Statistics
 
-[Passion Driven Statistics](https://statacumen.com/teach/S4R/PDS_book/) book.
+* [Passion Driven Statistics](https://statacumen.com/teach/S4R/PDS_book/) book.
